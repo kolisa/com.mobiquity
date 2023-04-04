@@ -1,4 +1,4 @@
-﻿solution is developed on the Net7 which is the cross platform and it wil be supported by windows and linux
+﻿Solution is developed on the .NET 7.0 and it support cross platform and can be hosted windows and linux
 Solution is developed using c# language 
 I have used two dimension data structure and generic list  and algorithm time used is O(N) and O(N²)
 
