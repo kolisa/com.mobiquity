@@ -4,4 +4,4 @@ I have used two dimension data structure and generic list  and algorithm time us
 
 The aplication has method that will take parameter and check if the price and wieght are below the max of 100 before it adds them in the bag 
 
-Source code open using vision studio 2022
+Source code must be open using vision studio 2022
